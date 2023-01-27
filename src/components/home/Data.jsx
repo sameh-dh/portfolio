@@ -51,7 +51,7 @@ const Data = () => {
                 </div>
                 <h3
                     className="home__subtitle">
-                    FullStack javascript developer
+                    FullStack developer
                 </h3>
                 <p
                     className="home__description">
