@@ -60,7 +60,7 @@ const Data = () => {
 
                 <a
                     href=""
-                    className="button bittom--flex">
+                    className="button buttom--flex">
                     Say Hello
                     <svg
                         class="button__icon"

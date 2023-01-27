@@ -1,7 +1,8 @@
 import React from 'react'
 import "../../css/Home.css"
 import Social from "./Social.jsx"
-import Data from './Data'
+import Data from './Data.jsx'
+import ScrollDown from './ScrollDown.jsx'
 const Home = () => {
   
   return (
@@ -11,8 +12,9 @@ const Home = () => {
     <Social />
      <div className="home__img"></div>
      <Data />
+  
    </div>
- 
+   <ScrollDown />
     </div>
 </section>  )
 }
