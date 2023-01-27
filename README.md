@@ -16,4 +16,15 @@ npx create-react-app --save
  ## Step 2: 
 ```js
 work on the head component
+--> navbar
+--> logo
+```
+
+ ## Step 3: 
+```js
+work on the home component
+--> social icons
+--> profile image
+--> description 
+--> scrolling
 ```
