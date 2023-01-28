@@ -3,6 +3,7 @@ I am happy to present my portfolio to you all. Once it's done, I'll share the ho
 ## Step 1:
 ```js
 npx create-react-app --save
+--> Organize the folders
 ```
  <a href="https://boxicons.com/usage"> add BoxIcons   
  </a>
