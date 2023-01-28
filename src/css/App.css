@@ -49,6 +49,21 @@
   --z-fixed: 100;
   --z-modal: 1000;
 }
+/* Scroll Bar */
+body::-webkit-scrollbar {
+  width: 16px;
+ 
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #f2e3f1;
+  border-radius: 100px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #9f7196;
+  border-radius: 100px;
+}
 
 /* Responsive typography */
 @media screen and (max-width: 992px) {
