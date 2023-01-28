@@ -3,6 +3,8 @@ I am happy to present my portfolio to you all. Once it's done, I'll share the ho
 ## Step 1:
 ```js
 npx create-react-app --save
+```
+```js
 --> Organize the folders
 ```
  <a href="https://boxicons.com/usage"> add BoxIcons   
@@ -17,8 +19,14 @@ npx create-react-app --save
  ## Step 2: 
 ```js
 Work on the head component
+```
+```js
 --> Navbar
+```
+```js
 --> Logo
+```
+```js
 --> Responsive
      --> Large devices
      --> Medium devices
@@ -28,12 +36,22 @@ Work on the head component
  ## Step 3: 
 ```js
 Work on the home component
+```
+```js
 --> Social icons
+```
+```js
 --> Profile image
      --> Animation
+```
+```js
 --> Description 
+```
+```js
 --> Scrolling icon
     --> Animation
+```
+```js
 --> Responsive
      --> Large devices
      --> Medium devices
@@ -42,7 +60,13 @@ Work on the home component
  ## Step 4: 
  ```js
  Work on the about component
+```
+ ```js
 --> About image
+ ``` 
+ ```js
 --> Description
+ ``` 
+ ```js
 --> Download CV
  ``` 
