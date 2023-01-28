@@ -10,7 +10,7 @@ npx create-react-app --save
  <a href="https://iconscout.com/unicons"> add unicons
   </a>
 
- <a href="https://fonts.google.com/">google fonts: poppins
+ <a href="https://fonts.google.com/"> google fonts: poppins
  </a>
 
  ## Step 2: 
@@ -18,6 +18,10 @@ npx create-react-app --save
 work on the head component
 --> navbar
 --> logo
+--> responsive
+     --> large devices
+     --> medium devices
+     --> small devices
 ```
 
  ## Step 3: 
@@ -25,6 +29,12 @@ work on the head component
 work on the home component
 --> social icons
 --> profile image
+     --> animation
 --> description 
---> scrolling
+--> scrolling icon
+    --> animation
+--> responsive
+     --> large devices
+     --> medium devices
+     --> small devices
 ```
