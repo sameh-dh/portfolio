@@ -15,7 +15,7 @@ npx create-react-app --save
 
  ## Step 2: 
 ```js
-work on the head component
+Work on the head component
 --> navbar
 --> logo
 --> responsive
@@ -26,7 +26,7 @@ work on the head component
 
  ## Step 3: 
 ```js
-work on the home component
+Work on the home component
 --> social icons
 --> profile image
      --> animation
