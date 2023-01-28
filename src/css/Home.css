@@ -183,10 +183,11 @@
 
     .home__img {
         order: initial;
-        justify-self: center;
+        /* justify-self: initial; */
         box-shadow: inset 0 0 0 6px rgb(255 255 255 / 30%);
         width: 200px;
         height: 200px;
+        margin-right: 20%;
     }
      
     .home__scroll {
@@ -200,10 +201,20 @@
      }
 
      .home__subtitle::before {
-        width: 20%;
+        width: 10%;
         top: 0.8rem;
-        left: 12%;
+        left: 25%;
     
+     }
+
+     .home__description{
+       padding-right: 20%;
+        text-align: center;
+        padding-left: 20%;
+     }
+
+     .button {
+        margin-left: 40%
      }
   }
   
@@ -218,6 +229,14 @@
   
   /* For small devices */
   @media screen and (max-width: 350px) {
-  
+          .home__img {
+            width: 180px;
+            height: 180px;
+          }
+
+          .home__hand {
+            width: 22px;
+            height: 22px;
+          }
   
   }
