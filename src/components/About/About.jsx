@@ -14,7 +14,7 @@ const About = () => {
                 <div className="about__data">
                     <Info />
                     <p className="about__description">
-                        Hello, I am a Full Stack Javascript Developer. I am an organizational person. I have leadership skills. After graduation, I worked as an instructor at RBK. Before that, I had a lot of experience in call centers. These experiences helped me develop my communication skills. While studying at RBK, I participated in many projects that taught me Agile methodologies, task boards, and deadline setting. Currently. I'm willing to join a company where I can be creative while working.
+                     I am a Javascript developer with a FullStack background. As part of my career, I have been involved in a wide range of projects that have taught me Agile methodologies as well as how to manage task boards and deadlines. At present. It would be a pleasure for me to join a company where I can be creative while working
                     </p>
                     <a download="" href={CV}className="button button--flex">Download CV
                         <svg
