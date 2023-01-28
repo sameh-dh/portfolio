@@ -38,3 +38,8 @@ Work on the home component
      --> medium devices
      --> small devices
 ```
+ ## Step 4: 
+ ```js
+ Work on the about component
+-->
+ ``` 
