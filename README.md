@@ -70,3 +70,9 @@ Work on the home component
  ```js
 --> Download CV
  ``` 
+  ```js
+ --> Responsive
+     --> Large devices
+     --> Medium devices
+     --> Small devices
+```
