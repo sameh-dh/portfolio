@@ -16,30 +16,32 @@ npx create-react-app --save
  ## Step 2: 
 ```js
 Work on the head component
---> navbar
---> logo
---> responsive
-     --> large devices
-     --> medium devices
-     --> small devices
+--> Navbar
+--> Logo
+--> Responsive
+     --> Large devices
+     --> Medium devices
+     --> Small devices
 ```
 
  ## Step 3: 
 ```js
 Work on the home component
---> social icons
---> profile image
-     --> animation
---> description 
---> scrolling icon
-    --> animation
---> responsive
-     --> large devices
-     --> medium devices
-     --> small devices
+--> Social icons
+--> Profile image
+     --> Animation
+--> Description 
+--> Scrolling icon
+    --> Animation
+--> Responsive
+     --> Large devices
+     --> Medium devices
+     --> Small devices
 ```
  ## Step 4: 
  ```js
  Work on the about component
--->
+--> About image
+--> Description
+--> Download CV
  ``` 
