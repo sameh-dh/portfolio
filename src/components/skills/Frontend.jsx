@@ -9,67 +9,84 @@ const Frontend = () => {
                 <div className="skills__group">
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
+
+                        <h3 className="skills__name">HTML</h3>
+                        <i className='bx bxl-html5'></i>
                     </div>
-                    <h3 className="skills__name">HTML</h3>
-                    <span className="skills__level">Intermediate</span>
+                 
+                    <div className="skills__data">
+                        <i className='bx bx-badge-check'></i>
+
+                        <h3 className="skills__name">Bootstrap</h3>
+                        <i class='bx bxl-bootstrap' ></i>
+                    </div>
+                   
 
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
-                    </div>
-                    <h3 className="skills__name">CSS</h3>
-                    <span className="skills__level">Advanced</span>
 
+                        <h3 className="skills__name">Typescript</h3>
+                        <i class='bx bxl-typescript' ></i>
+                    </div>
+                  
+                    <div className="skills__data">
+                        <i className='bx bx-badge-check'></i>
+
+                        <h3 className="skills__name">JQuery</h3>
+                        <i class='bx bxl-jquery' ></i>
+                    </div>
+                   
 
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
-                    </div>
-                    <h3 className="skills__name">Javascript</h3>
-                    <span className="skills__level">Intermediate</span>
 
-                    <div className="skills__data">
-                        <i className='bx bx-badge-check'></i>
+                        <h3 className="skills__name">Flutter</h3>
+                        <i class='bx bxl-flutter'></i>
                     </div>
-                    <h3 className="skills__name">typescript</h3>
-                    <span className="skills__level">Basic</span>
+                   
 
-                    <div className="skills__data">
-                        <i className='bx bx-badge-check'></i>
-                    </div>
-                    <h3 className="skills__name">Dart</h3>
-                    <span className="skills__level">Basic</span>
+
+
                 </div>
 
                 <div className="skills__group">
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
+
+                        <h3 className="skills__name">CSS</h3>
+                        <i class='bx bxl-css3'></i>
                     </div>
-                    <h3 className="skills__name">Bootstrap</h3>
-                    <span className="skills__level">Basic</span>
+                 
 
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
+
+                        <h3 className="skills__name">Javascript</h3>
+                        <i class='bx bxl-javascript'></i>
                     </div>
-                    <h3 className="skills__name">Git</h3>
-                    <span className="skills__level">Intermediate</span>
+                 
+                    <div className="skills__data">
+                        <i className='bx bx-badge-check'></i>
+
+                        <h3 className="skills__name">Dart</h3>
+                    </div>
+                    <div className="skills__data">
+                        <i className='bx bx-badge-check'></i>
+
+                        <h3 className="skills__name">React</h3>
+                        <i class='bx bxl-react'></i>
+                    </div>
+                
 
 
                     <div className="skills__data">
                         <i className='bx bx-badge-check'></i>
-                    </div>
-                    <h3 className="skills__name">React</h3>
-                    <span className="skills__level">Intermediate</span>
 
-                    <div className="skills__data">
-                        <i className='bx bx-badge-check'></i>
+                        <h3 className="skills__name">Vue</h3>
+                        <i class='bx bxl-vuejs' ></i>
                     </div>
-                    <h3 className="skills__name">Vue</h3>
-                    <span className="skills__level">Basic</span>
+                  
 
-                    <div className="skills__data">
-                        <i className='bx bx-badge-check'></i>
-                    </div>
-                    <h3 className="skills__name">Flutter</h3>
-                    <span className="skills__level">Basic</span>
                 </div>
             </div>
         </div>
