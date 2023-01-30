@@ -58,21 +58,35 @@ Work on the home component
      --> Small devices
 ```
  ## Step 4: 
- ```js
+```js
  Work on the about component
 ```
- ```js
+```js
 --> About image
  ``` 
- ```js
+```js
 --> Description
- ``` 
- ```js
+``` 
+```js
 --> Download CV
  ``` 
-  ```js
+```js
  --> Responsive
      --> Large devices
      --> Medium devices
      --> Small devices
+```
+
+## Step 5: 
+
+```js
+ Work on the skills component
+```
+```js
+--> Frontend Skills
+```
+```js
+--> Backend Skills
+```
+```js
 ```
