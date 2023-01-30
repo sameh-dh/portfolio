@@ -94,6 +94,10 @@ Work on the home component
      --> Medium devices
      --> Small devices
 ```
+## Step 6: 
 
+```js
+ Work on the Services component
+```
 ```js
 ```
