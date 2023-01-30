@@ -89,4 +89,11 @@ Work on the home component
 --> Backend Skills
 ```
 ```js
+ --> Responsive
+     --> Large devices
+     --> Medium devices
+     --> Small devices
+```
+
+```js
 ```
