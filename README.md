@@ -100,4 +100,19 @@ Work on the home component
  Work on the Services component
 ```
 ```js
+--> Frontend Services
 ```
+```js
+--> Backend Services
+```
+```js
+--> UI/UX Services
+```
+```js
+ --> Responsive
+     --> Large devices
+     --> Medium devices
+     --> Small devices
+```
+
+## Step 7: 
