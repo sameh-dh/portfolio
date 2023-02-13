@@ -116,3 +116,7 @@ Work on the home component
 ```
 
 ## Step 7: 
+
+```js
+ Work on the Qualification component
+```
