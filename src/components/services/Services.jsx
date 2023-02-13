@@ -16,7 +16,7 @@ const Services = () => {
 
 
                 <div className="services__content">
-                    <i className="uil uil services__icon"></i>
+                    <i className="uil uil-images services__icon"></i>
                     <h3 className="services__title"> Frontend Dveloper
                     </h3>
                     <span className="services__button" onClick={() => {
@@ -60,7 +60,7 @@ const Services = () => {
 
 
                 <div className="services__content">
-                    <i className="uil uil services__icon"></i>
+                    <i className="uil uil-brush-alt services__icon"></i>
                     <h3 className="services__title"> UI/UX Developer
                     </h3>
                     <span className="services__button" onClick={() => {
@@ -103,7 +103,7 @@ const Services = () => {
                 </div>
 
                 <div className="services__content">
-                    <i className="uil uil services__icon"></i>
+                    <i className="uil uil-arrow services__icon"></i>
                     <h3 className="services__title">
                         Backend Developer
                     </h3>
