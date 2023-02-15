@@ -129,3 +129,9 @@ Work on the home component
 ```js
 --> Toggle between sections
 ```
+```js
+ --> Responsive
+     --> Large devices
+     --> Medium devices
+     --> Small devices
+```
