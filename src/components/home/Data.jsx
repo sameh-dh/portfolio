@@ -59,7 +59,7 @@ const Data = () => {
                 </p>
 
                 <a
-                    href=""
+                    href="#contact"
                     className="button buttom--flex">
                     Say Hello
                     <svg
