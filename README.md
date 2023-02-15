@@ -138,5 +138,5 @@ Work on the home component
 ## Step 7: 
 
 ```js
- Work on the Testimonial component
+ Work on the Contact component
 ```
