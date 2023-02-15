@@ -135,3 +135,8 @@ Work on the home component
      --> Medium devices
      --> Small devices
 ```
+## Step 7: 
+
+```js
+ Work on the Testimonial component
+```
