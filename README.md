@@ -120,3 +120,12 @@ Work on the home component
 ```js
  Work on the Qualification component
 ```
+```js
+--> Education
+```
+```js
+--> Job Experience
+```
+```js
+--> Toggle between sections
+```
