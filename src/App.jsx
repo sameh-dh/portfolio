@@ -6,6 +6,7 @@ import Skills from './components/skills/Skills.jsx'
 import Services from './components/services/Services';
 import Qualification from './components/qualification/Qualification';
 import Contact from './components/contact/Contact';
+import Work from './components/work/Work';
 function App() {
   return (
    <>
@@ -16,6 +17,7 @@ function App() {
     <Skills />
     <Services />
     <Qualification />
+    <Work />
     <Contact />
    </main>
    </>
