@@ -140,3 +140,22 @@ Work on the home component
 ```js
  Work on the Contact component
 ```
+```js
+--> Mailing
+```
+```js
+--> WhatsApp
+```
+```js
+--> Instagram
+```
+```js
+--> Fill Form
+   -->Send form to email 
+```
+```js
+ --> Responsive
+     --> Large devices
+     --> Medium devices
+     --> Small devices
+```
