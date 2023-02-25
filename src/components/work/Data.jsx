@@ -9,37 +9,43 @@ export const projectData = [
         id: 1,
         image: Work1,
         title: "Web Design",
-        category: "web"
+        category: "web",
+        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
     },
     {
         id: 2,
         image: Work2,
         title: "Web Design",
-        category: "app"
+        category: "app",
+        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
     },
     {
         id: 3,
         image: Work3,
         title: "Web Design",
-        category: "web"
+        category: "web",
+        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
     },
     {
         id: 4,
         image: Work4,
         title: "Web Design",
-        category: "web"
+        category: "web",
+        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
     },
     {
         id: 5,
         image: Work5,
         title: "Web Design",
-        category: "app"
+        category: "app",
+        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
     },
     {
         id: 6,
         image: Work6,
         title: "Web Design",
-        category: "app"
+        category: "app",
+        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
     }
 ]
 
