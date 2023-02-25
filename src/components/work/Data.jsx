@@ -3,7 +3,7 @@ import Work2 from "../../images/work2.jpg"
 import Work3 from "../../images/work3.jpg"
 import Work4 from "../../images/work4.jpg"
 import Work5 from "../../images/work5.jpg"
-import Work6 from "../../images/work6.jpg"
+import Work6 from "../../images/work6.png"
 export const projectData = [
     {
         id: 1,
