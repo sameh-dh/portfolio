@@ -55,3 +55,28 @@
     text-align: center;
     font-size:var(--smaller-font-size) ;
 }
+
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+    .footer__link {
+        padding: 0.25rem;
+        border-radius: 0.25rem;
+        font-size: 1rem ;
+    }
+  }
+  
+  /* For medium devices */
+  @media screen and (max-width: 768px) {
+
+  }
+  
+  @media screen and (max-width: 576px) {
+  }
+  
+  /* For small devices */
+  @media screen and (max-width: 350px) {
+  
+  }
+  
