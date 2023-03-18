@@ -1,52 +1,49 @@
 import Work1 from "../../images/work1.jpg"
-import Work2 from "../../images/work2.jpg"
-import Work3 from "../../images/work3.jpg"
+import Work2 from "../../images/work6.png"
+import Work3 from "../../images/work5.jpg"
 import Work4 from "../../images/work4.jpg"
-import Work5 from "../../images/work5.jpg"
-import Work6 from "../../images/work6.png"
+import Work5 from "../../images/work3.jpg"
+
+
+
+
 export const projectData = [
     {
         id: 1,
         image: Work1,
-        title: "Web Design",
+        title: "Phoenix Electic",
         category: "web",
         Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
     },
     {
         id: 2,
         image: Work2,
-        title: "Web Design",
+        title: "Kamping App",
         category: "app",
         Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
     },
     {
         id: 3,
         image: Work3,
-        title: "Web Design",
+        title: "Hung out",
         category: "web",
-        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
+        Demo: "https://www.youtube.com/watch?v=6ypMYk7edd8&t=48s"
     },
     {
         id: 4,
         image: Work4,
-        title: "Web Design",
+        title: "To do list",
         category: "web",
-        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
+        Demo: "https://www.youtube.com/watch?v=7dIZp7Wn8M4"
     },
+  
     {
         id: 5,
         image: Work5,
-        title: "Web Design",
-        category: "app",
-        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
+        title: "Tic Tac Toe",
+        category: "web",
+        Demo: "https://www.youtube.com/watch?v=7LwEcAnyjh8"
     },
-    {
-        id: 6,
-        image: Work6,
-        title: "Web Design",
-        category: "app",
-        Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
-    }
 ]
 
 export const ProjectNav = [
