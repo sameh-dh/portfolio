@@ -11,7 +11,7 @@ export const projectData = [
     {
         id: 1,
         image: Work1,
-        title: "Phoenix Electic",
+        title: "Phoenix Electric",
         category: "web",
         Demo: "https://www.youtube.com/watch?v=LpejaeS5xMo"
     },
